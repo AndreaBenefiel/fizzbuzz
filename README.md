@@ -1,4 +1,4 @@
 # fizzbuzz
-code challenge
+Kenzan code challenge
 10/4/17
 Andrea Benefiel
